@@ -14,3 +14,8 @@ That is why we need "Automated Testing".
 ## Automated Testing
 
 You write extra code that runs and tests your main application code, a standard thing to do in modern development. you write test the individual building blocks of your app, then test all those blocks together.
+
+#### Kinds of Automated Tests
+- Unit Tests
+- Integration Tests
+- End-to-End(e2e) Tests
