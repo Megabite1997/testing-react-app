@@ -7,9 +7,9 @@ We preview the application in the browser and we test it there. It is super impo
 But, testing the app manually is also "error-prone", It is hard to test all possible combinations and scenarios. 
 
 #### For example,
-You add an new feature, or change something of an existing feature. you will probably test that change or the new feature, but you're not going to test all the other parts of your application all the time. Therefore, you might change something which breaks some other feature in your app and since you're not testing everything all the time, that breaking change, that bug, might slip through and maybe you eventually catch it later,
+You add an new feature, or change something of an existing feature. you will probably test that change or the new feature, but you're not going to test all the other parts of your application all the time. Therefore, you might change something which breaks some other feature in your app and since you're not testing everything all the time, that breaking change, that bug, might slip through and maybe you eventually catch it later.
 
-That is why we need "Automated Testing"
+That is why we need "Automated Testing".
 
 ## Automated Testing
 
